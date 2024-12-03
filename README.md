@@ -20,7 +20,7 @@
     "comments": [],
     "createdAt": "2024-12-03T10:00:00.000Z",
     "updatedAt": "2024-12-03T10:00:00.000Z"
-  }
+  }```
 
 2. Fetch All Posts
 ```Endpoint: GET /posts
